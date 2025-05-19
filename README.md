@@ -27,13 +27,11 @@ This repository demonstrates background subtraction techniques using OpenCV for 
 ### 1. GrabCut Segmentation
 GrabCut is an advanced foreground extraction technique. It requires an initial rectangle around the object of interest. The algorithm refines this region to extract the foreground more accurately.
 
-```python
 cv2.grabCut(image, mask, rect, bgdModel, fgdModel, iterCount, mode)
 
 ### 2. Thresholding with Gaussian Blur
 This method converts an image to grayscale, applies Gaussian blur to smooth it, and then uses binary thresholding to isolate foreground elements.
 
-```python
 cv2.threshold(rc, thresh, maxval, type)
 
 ---
