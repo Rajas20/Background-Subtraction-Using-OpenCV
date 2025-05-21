@@ -38,9 +38,11 @@ cv2.threshold(rc, thresh, maxval, type)
 
 ## Output
 Original Image
+![Alt Text](Images/ASD.jpeg)
 
 Background Removed Image
+![Alt Text](Images/Bg_subtraction.jpeg)
 
 Binary Foreground Mask
-
+![Alt Text](Images/Fg_mask.jpeg)
 
