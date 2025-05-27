@@ -44,5 +44,5 @@ Background Removed Image
 ![Alt Text](Images/BG_subtraction.png)
 
 Binary Foreground Mask
-![Alt Text](Images/Fg_mask.png)
+![Alt Text](Images/Fg_Masking.png)
 
