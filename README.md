@@ -41,7 +41,7 @@ Original Image
 ![Alt Text](Images/ASD.jpeg)
 
 Background Removed Image
-![Alt Text](Images/BG_subtraction.png)
+![Alt Text](Images/BG_Subtraction.png)
 
 Binary Foreground Mask
 ![Alt Text](Images/Fg_Masking.png)
